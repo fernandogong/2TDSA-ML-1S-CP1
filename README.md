@@ -41,3 +41,8 @@ Ao final, preencha o forms de auto avaliação.
 - O estudante deve preencher o google forms de avaliação disponibilizado pelo professor;
 - O estudante deve subir o código em um repositório do github. 
 
+## Autor
+Feito por [@fernandogong](https://github.com/fernandogong). Entre em contato!
+
+LinkedIn: [Fernando Gong](https://www.linkedin.com/in/fernando-gong/) <br>
+Email: [fernand0cg0ng@gmail.com](mailto:fernand0cg0ng@gmail.com)
