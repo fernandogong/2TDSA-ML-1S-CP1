@@ -1,6 +1,5 @@
 # Semestre 1 - Checkpoint 1 - Machine Learning
 
-Esse é um guia simples, o estudante pode e deve modificar para atender as necessidades do projeto. 
 
 **Ano: 2023**
 
@@ -18,28 +17,7 @@ Nesse sentido, use a base de dados **aptos.csv** para realizar a descoberta do c
 
 **`Quanto vale um apartamento de 72m2 com 2 quartos, 2 vagas, reformado no Centro?`**
 
-## Desenvolvimento do projeto
 
-Faça o desenvolvimento do projeto seguindo as instruções do arquivo notebook **CheckPoint.ipynb** deste repositório.
-
-Ao final, preencha o forms de auto avaliação.
-
-[https://forms.gle/sw4LbAFX3ExeNjSw7](https://forms.gle/sw4LbAFX3ExeNjSw7)
-
-
-
-## Leia com atenção!!!
-
-- Avaliação **INDIVIDUAL**
-
-- Cuidado com a desonestidade intelectual; 
-    - AUTO AVALIAÇÃO: Uma auto avaliação não compatível com o material entregue será interpretada como desonestidade intelectual;
-    - PLÁGIO: Atividades que envolvem pesquisas na Internet podem ser enriquecidas com citações de várias fontes. No entanto, sempre que utilizar textos ou mesmo imagens que não sejam seus, seu trabalho deve ser acompanhado com um trecho de “referências”. Bastam os hiperlinks utilizados;
-    - COLA DE TRABALHOS: Não é permitida a troca de trabalhos entre os grupos, cada grupo é responsável pelo desenvolvimento intelectual do projeto. Não copie e entregue o trabalho de outro colega e não permita ser copiado. Atividades duplicadas resultarão na anulação de ambas.
-
-- O estudante deve implementar o projeto baseado na rubrica apresentada;
-- O estudante deve preencher o google forms de avaliação disponibilizado pelo professor;
-- O estudante deve subir o código em um repositório do github. 
 
 ## Autor
 Feito por [@fernandogong](https://github.com/fernandogong). Entre em contato!
