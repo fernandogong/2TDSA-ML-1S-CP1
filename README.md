@@ -1,4 +1,4 @@
-# Template para desenvolvimento e entrega do Checkpoint 1
+# Semestre 1 - Checkpoint 1 - Machine Learning
 
 Esse é um guia simples, o estudante pode e deve modificar para atender as necessidades do projeto. 
 
