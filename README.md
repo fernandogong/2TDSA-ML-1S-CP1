@@ -1,17 +1,16 @@
 # Semestre 1 - Checkpoint 1 - Machine Learning
 
+Projeto desenvolvido para avaliação da disciplina Disruptive Architectures - IOT, IOB AND IA. O conteúdo que se segue nesse README foi escrito baseado no projeto e nas instruções do professor.
 
-**Ano: 2023**
+## Resumo
 
-## Objetivo
+Com o dataset fornecido sobre dados de imóveis em São Paulo, o objetivo final é prever o preço de um apartamento numa determinada condição. O intuito do projeto é analisar os dados tanto com gráficos quanto com estatísticas e, com isso, determinar o melhor modelo de machine learning para realizar a tarefa designada.
 
-Avaliar conceitos sobre aprendizado de máquina (ML)
+## Instruções do professor
 
-## Descrição do Projeto
+Parabéns! Você foi contratado por uma empresa inovadora do ramo imobiliário como `QuintoAndar, Loft, Terraz, grupo Zap (ZAP, Viva Real, DataZAP, FipeZAP, SuaHouse, Geoimóvel, Sub100 e Conecta Imobi) ou Imobi Conference`. 
 
-Parabéns! Você foi contratado por uma empresa inovadora do ramo imobiliario como `QuintoAndar, Loft, Terraz, grupo Zap (ZAP, Viva Real, DataZAP, FipeZAP, SuaHouse, Geoimóvel, Sub100 e Conecta Imobi) ou Imobi Conference`. 
-
-O seu desafio está no apio à tomada de decisão baseada em dados (empresa data driven). 
+O seu desafio está no apto à tomada de decisão baseada em dados (empresa data driven). 
 
 Nesse sentido, use a base de dados **aptos.csv** para realizar a descoberta do conhecimento e responder a pergunta: 
 
