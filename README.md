@@ -2,6 +2,10 @@
 
 Projeto desenvolvido para avaliação da disciplina Disruptive Architectures - IOT, IOB AND IA. O conteúdo que se segue nesse README foi escrito baseado no projeto e nas instruções do professor.
 
+<div align="center">
+    <img src="correlacao.png" alt="grafico de correlacao">
+</div>
+
 ## Resumo
 
 Com o dataset fornecido sobre dados de imóveis em São Paulo, o objetivo final é prever o preço de um apartamento numa determinada condição. O intuito do projeto é analisar os dados tanto com gráficos quanto com estatísticas e, com isso, determinar o melhor modelo de machine learning para realizar a tarefa designada.
