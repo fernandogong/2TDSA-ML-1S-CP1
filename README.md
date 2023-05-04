@@ -23,7 +23,7 @@ Nesse sentido, use a base de dados **aptos.csv** para realizar a descoberta do c
 
 
 ## Autor
-Feito por [@fernandogong](https://github.com/fernandogong). Entre em contato!
+Feito por [@fernandogong](https://github.com/fernandogong).
 
 LinkedIn: [Fernando Gong](https://www.linkedin.com/in/fernando-gong/) <br>
 Email: [fernand0cg0ng@gmail.com](mailto:fernand0cg0ng@gmail.com)
