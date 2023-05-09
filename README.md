@@ -2,6 +2,8 @@
 
 <h3 align="center">Projeto desenvolvido para avaliação da disciplina Disruptive Architectures - IOT, IOB AND IA. O conteúdo que se segue nesse README foi escrito baseado no projeto e nas instruções do professor.</h3>
 
+<br></br>
+
 <div align="center">
     <img src="correlacao.png" alt="grafico de correlacao">
 </div>
