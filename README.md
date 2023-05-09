@@ -1,4 +1,4 @@
-<h1 align="center">Semestre 1 - Checkpoint 1 - Machine Learning</h1>
+<h1 align="center">Machine Learning - regressão</h1>
 
 <h3 align="center">Projeto desenvolvido para avaliação da disciplina Disruptive Architectures - IOT, IOB AND IA. O conteúdo que se segue nesse README foi escrito baseado no projeto e nas instruções do professor.</h3>
 
